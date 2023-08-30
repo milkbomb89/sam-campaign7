@@ -1,0 +1,35 @@
+*{
+    box-sizing:border-box;
+    background-color: #FFC19E
+}
+
+
+.card{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 200px;
+ 
+}
+
+.image{
+    display: inline-block;
+    position:static
+    
+    
+}
+
+.hilight{
+    position: absolute;
+
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;    
+    margin-top: 120px;
+
+}
